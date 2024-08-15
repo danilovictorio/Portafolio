@@ -8,23 +8,23 @@
       "imageSrc": "skills/css.png"
     },
     {
-      "title": "React",
+      "title": "Vue",
       "imageSrc": "skills/react.png"
     },
     {
-      "title": "Node",
+      "title": "NodeJS",
       "imageSrc": "skills/node.png"
     },
     {
-      "title": "GraphQL",
+      "title": "NuxtJS",
       "imageSrc": "skills/graphql.png"
     },
     {
-      "title": "MongoDB",
+      "title": "Laravel",
       "imageSrc": "skills/mongodb.png"
     },
     {
-      "title": "Figma",
+      "title": "GitHub",
       "imageSrc": "skills/figma.png"
     }
   ]

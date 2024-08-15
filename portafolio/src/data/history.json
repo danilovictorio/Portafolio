@@ -1,6 +1,6 @@
 [
     {
-      "role": "Software Engineer",
+      "role": "Frontend Developer",
       "organisation": "Google",
       "startDate": "Sept, 2022",
       "endDate": "Present",
@@ -16,7 +16,7 @@
       "imageSrc": "history/microsoft.png"
     },
     {
-      "role": "SWE Intern",
+      "role": "Backend Developer",
       "organisation": "Netflix",
       "startDate": "Apr, 2020",
       "endDate": "Jun, 2020",

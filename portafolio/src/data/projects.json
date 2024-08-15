@@ -1,17 +1,17 @@
 [
     {
-      "title": "Project A",
+      "title": "CineCar",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "Pagina basica de compra de entradas en el cine.",
+      "skills": ["NuxtJs", "Laravel", "Tailwind"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
     {
-      "title": "Project B",
+      "title": "MathRisk",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "description": "Juego educativo de matematicas basado en el juego de mesa Risk.",
+      "skills": ["NuxtJs", "Laravel", "Tailwind", "NodeSockets"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
