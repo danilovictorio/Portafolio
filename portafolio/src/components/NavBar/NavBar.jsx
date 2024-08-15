@@ -1,4 +1,4 @@
-import  { useState } from "react";
+import React, { useState } from "react";
 
 import styles from "./NavBar.module.css";
 import { getImageUrl } from "../../utils";
@@ -7,9 +7,9 @@ export const NavBar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-    <nav className={styles.NavBar}>
+    <nav className={styles.navbar}>
       <a className={styles.title} href="/">
-        Portafolio
+        Portfolio
       </a>
       <div className={styles.menu}>
         <img
@@ -22,18 +22,21 @@ export const NavBar = () => {
           alt="menu-button"
           onClick={() => setMenuOpen(!menuOpen)}
         />
-        <ul className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`} onClick={() => setMenuOpen(false)}>
+        <ul
+          className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}
+          onClick={() => setMenuOpen(false)}
+        >
           <li>
-            <a href="/#about">Sobre Mi</a>
+            <a href="#about">About</a>
           </li>
           <li>
-            <a href="/#experience">Experiencia</a>
+            <a href="#experience">Experience</a>
           </li>
           <li>
-            <a href="/#projects">Proyectos</a>
+            <a href="#projects">Projects</a>
           </li>
           <li>
-            <a href="/#Contact">Contacto</a>
+            <a href="#contact">Contact</a>
           </li>
         </ul>
       </div>

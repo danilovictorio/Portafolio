@@ -12,7 +12,7 @@ const Hero = () => {
             </p>
             <a href="mailto:danilovictorio777@gmail.com" className={styles.contactBtn} >Contactame</a>
         </div>
-        <img src={getImageUrl("hero/fotoDanilo.jpg")} alt="Hero Image of me" className={styles.Img}/>
+        <img src={getImageUrl("hero/fotoDanilo.jpg")} alt="Hero Image of me" className={styles.heroImg}/>
     <div className={styles.topBlur} />
     <div className={styles.bottomBlur} />
     </section>
