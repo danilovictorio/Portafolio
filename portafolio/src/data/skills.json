@@ -1,30 +1,30 @@
 [
     {
       "title": "HTML",
-      "imageSrc": "skills/html.png"
+      "imageSrc": "experience/html.png"
     },
     {
       "title": "CSS",
-      "imageSrc": "skills/css.png"
+      "imageSrc": "experience/css.png"
     },
     {
       "title": "Vue",
-      "imageSrc": "skills/react.png"
+      "imageSrc": "experience/vue.png"
     },
     {
       "title": "NodeJS",
-      "imageSrc": "skills/node.png"
+      "imageSrc": "experience/node.png"
     },
     {
       "title": "NuxtJS",
-      "imageSrc": "skills/graphql.png"
+      "imageSrc": "experience/nuxt.png"
     },
     {
       "title": "Laravel",
-      "imageSrc": "skills/mongodb.png"
+      "imageSrc": "experience/laravel.png"
     },
     {
       "title": "GitHub",
-      "imageSrc": "skills/figma.png"
+      "imageSrc": "experience/github.png"
     }
   ]
