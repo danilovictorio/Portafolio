@@ -1,4 +1,23 @@
 [
+  {
+    "role": "Tecnico Informatico",
+    "organisation": "Informatica4",
+    "startDate": "Enero, 2019",
+    "endDate": "Septiembre, 2019",
+    "experiences": ["Reparación de Hardware", "Diagnóstico y Solución de Problemas"],
+    "imageSrc": "experience/informatica4.png"
+  },
+  {
+    "role": "Backend Developer",
+    "organisation": "Awerty",
+    "startDate": "Diciembre, 2022",
+    "endDate": "Mayo, 2023",
+    "experiences": [
+      "Desarrollo de Funcionalidades",
+      "Mantenimiento y Mejora"
+    ],
+    "imageSrc": "experience/awerty.png"
+  },
     {
       "role": "Frontend Developer",
       "organisation": "Reset Soluciones",
@@ -6,24 +25,6 @@
       "endDate": "Abril, 2024",
       "experiences": ["Diseño y UX/UI", "Desarrollo Front-End"],
       "imageSrc": "experience/resetsoluciones.png"
-    },
-    {
-      "role": "Tecnico Informatico",
-      "organisation": "Informatica4",
-      "startDate": "Enero, 2019",
-      "endDate": "Septiembre, 2019",
-      "experiences": ["Reparación de Hardware", "Diagnóstico y Solución de Problemas"],
-      "imageSrc": "experience/informatica4.png"
-    },
-    {
-      "role": "Backend Developer",
-      "organisation": "Awerty",
-      "startDate": "Diciembre, 2022",
-      "endDate": "Mayo, 2023",
-      "experiences": [
-        "Desarrollo de Funcionalidades",
-        "Mantenimiento y Mejora"
-      ],
-      "imageSrc": "experience/awerty.png"
     }
+    
   ]
