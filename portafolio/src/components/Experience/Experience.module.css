@@ -75,7 +75,8 @@
 }
 
 .historyItem img {
-  width: 50px;
+  width: 120px;
+  height: 50px;
 }
 
 .historyItemDetails {
