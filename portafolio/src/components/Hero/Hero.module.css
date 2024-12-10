@@ -21,8 +21,8 @@
   }
   
   .title {
-    font-size: 72px;
-    font-weight: 900;
+    font-size: 62px;
+    font-weight: 600;
     margin-bottom: 33px;
     font-family: var(--font-roboto);
     background: linear-gradient(
@@ -32,10 +32,25 @@
     );
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
+    background-clip: text;
+  }
+  .subTitle {
+    font-size: 32px;
+    font-weight: 300;
+    margin-bottom: 23px;
+    font-family: var(--font-roboto);
+    background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 1) 70%,
+      rgba(255, 255, 255, 0) 120%
+    );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
   }
   
   .description {
-    font-size: 30px;
+    font-size: 25px;
     font-family: var(--font-roboto);
     margin-bottom: 52px;
   }
