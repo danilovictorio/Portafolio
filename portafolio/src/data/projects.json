@@ -2,25 +2,25 @@
     {
       "title": "CineCar",
       "imageSrc": "projects/project.png",
-      "description": "Pagina basica de compra de entradas en el cine.",
+      "description": "Cartelera y sesiones de cine con pasarela de compra y envio de email, y administrador.",
       "skills": ["NuxtJs", "Laravel", "Tailwind"],
       "demo": "https://www.example.com",
-      "source": "https://github.com/inspedralbes/tr3-tr3danilo"
+      "source": "https://github.com/danilovictorio/tr3-tr3danilo"
     },
     {
       "title": "MathRisk",
       "imageSrc": "projects/project.png",
-      "description": "Juego educativo de matematicas basado en el juego de mesa Risk.",
+      "description": "Juego multijigador educativo de matematicas basado en el juego de mesa Risk.",
       "skills": ["NuxtJs", "Laravel", "Tailwind", "NodeSockets"],
       "demo": "https://www.example.com",
-      "source": "https://github.com/inspedralbes/tr2-MultipliCAT-G7"
+      "source": "https://github.com/danilovictorio/RiskMath"
     },
     {
       "title": "Portafolio",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "Portafolio personal, La página está diseñada como una SPA con una navegación fluida e intuitiva,.",
+      "skills": ["React"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/danilovictorio/Portafolio"
     }
   ]
