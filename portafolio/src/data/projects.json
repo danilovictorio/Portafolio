@@ -5,7 +5,7 @@
       "description": "Cartelera y sesiones de cine con pasarela de compra y envio de email, y administrador.",
       "skills": ["NuxtJs", "Laravel", "Tailwind"],
       "demo": "https://cine-danilo.vercel.app/",
-      "source": "https://github.com/danilovictorio/tr3-tr3danilo"
+      "source": "https://github.com/danilovictorio/CinesCar"
     },
     {
       "title": "MathRisk",
