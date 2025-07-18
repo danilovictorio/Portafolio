@@ -26,5 +26,13 @@
     {
       "title": "GitHub",
       "imageSrc": "experience/github.png"
+    },
+    {
+      "title": "Docker",
+      "imageSrc": "experience/docker.jpg"
+    },
+    {
+      "title": ".NET",
+      "imageSrc": "experience/net.png"
     }
   ]

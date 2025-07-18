@@ -9,7 +9,8 @@ const Hero = () => {
             <h1 className={styles.title}>Hola, Soy Danilo</h1>
             <h1 className={styles.subTitle}>Desarrollador Web Full Stack</h1>
             <p className={styles.description}>
-            Apasionado por la tecnología y el aprendizaje continuo. Me especializo en construir experiencias web intuitivas, eficientes y atractivas. Mi objetivo es combinar la lógica del backend con el diseño del frontend para crear aplicaciones completas y funcionales.
+              Apasionado por la programación y el aprendizaje. Especializado en el desarrollo de aplicaciones web. Interesado en el desarrollo front-end integrando las nuevas tecnologías del mercado.
+              Ambicioso en progreso y aprendizaje profesional. Me considero una persona disciplinada y comprometida.
             </p>
             <a href="mailto:danilovictorio777@gmail.com" className={styles.contactBtn} >Contactame</a>
         </div>
