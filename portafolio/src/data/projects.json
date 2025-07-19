@@ -2,7 +2,7 @@
     {
       "title": "CineCar",
       "imageSrc": "projects/CinesCar.png",
-      "description": "Cartelera y sesiones de cine con pasarela de compra y envio de email, y administrador.",
+      "description": "Cartelera y sesiones de cine con pasarela de pago, envío de correos electrónicos y panel de administrador.",
       "skills": ["NuxtJs", "Laravel", "Tailwind"],
       "demo": "https://cine-danilo.vercel.app/",
       "source": "https://github.com/danilovictorio/CinesCar"
@@ -10,7 +10,7 @@
     {
       "title": "MathRisk",
       "imageSrc": "projects/RiskMath.png",
-      "description": "Juego multijigador educativo de matematicas basado en el juego de mesa Risk.",
+      "description": "Juego multijugador educativo de matemáticas basado en el juego de mesa Risk.",
       "skills": ["NuxtJs", "Laravel", "Tailwind", "NodeSockets"],
       "demo": "https://risk-math.vercel.app/",
       "source": "https://github.com/danilovictorio/RiskMath"
@@ -18,7 +18,7 @@
     {
       "title": "Portafolio",
       "imageSrc": "projects/Portafolio.png",
-      "description": "Portafolio personal, La página está diseñada como una SPA con una navegación fluida e intuitiva,.",
+      "description": "Portafolio personal página diseñada en SPA, con una navegación fluida e intuitiva.",
       "skills": ["React"],
       "demo": "https://portafolio-psi-weld-48.vercel.app/",
       "source": "https://github.com/danilovictorio/Portafolio"
